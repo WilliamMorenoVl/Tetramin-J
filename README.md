@@ -17,7 +17,9 @@ Las solicitudes de extracción son bienvenidas. Para cambios importantes, abra p
 
 
 ## Autores y agradecimientos
-Gracias a los integrantes del grupo.
+Fabian Mauricio Caro, Felix Camilo Moreno Lozano, William Moreno Quinchucua, Willintong Ortiz Castro y Jhon Avila.
+
+Agradecimientos al profesor Carlos Armando Lopez Solano.
 ## Licencia 
 Copyright (c) [2020] [Grupo Tetramino J]
 
