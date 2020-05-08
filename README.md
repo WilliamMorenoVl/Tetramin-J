@@ -21,6 +21,10 @@ Tetramino J es un API Para imprimir y mover la pieza J del Tetris en una matriz 
 Mediante el uso de las flechas de dirección del teclado (Derecha e Izquierda) podremos mover la pieza atraves de la matriz siempre y cuando este movimiento este permitido por el espacio en la matriz y el tamaño de la pieza.
 Con las flechas (Arriba, Abajo) Podremos dar vuelta a la pieza ya sea en sentido de las manecillas del reloj como en contra de las manecillas.  
 ### Uso JAVA
+![Doock][5]
+
+
+[5]: https://raw.githubusercontent.com/WilliamMorenoVl/Tetramin-J/master/Assets/JAVA.PNG
 ### Rotar
 
 ![Dack][3]
