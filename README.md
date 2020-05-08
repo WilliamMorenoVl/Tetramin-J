@@ -33,13 +33,13 @@ Con las flechas (Arriba, Abajo) Podremos dar vuelta a la pieza ya sea en sentido
 ![Dack][3]
 
 
-[3]: https://raw.githubusercontent.com/WilliamMorenoVl/Tetramin-J/master/Assets/Rotar.png
+[3]: https://raw.githubusercontent.com/WilliamMorenoVl/Tetramin-J/master/Assets/Rotacion.PNG
 ### Mover
 
 ![Deck][4]
 
 
-[4]: https://raw.githubusercontent.com/WilliamMorenoVl/Tetramin-J/master/Assets/Mover.png
+[4]: https://raw.githubusercontent.com/WilliamMorenoVl/Tetramin-J/master/Assets/Mover.PNG
 
 ## Ejemplo de Funcionamiento
 
