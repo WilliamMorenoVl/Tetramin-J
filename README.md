@@ -2,6 +2,7 @@
 
 Tetramino J es un API Para imprimir y mover la pieza J del Tetris en una matriz cualquiera. 
 https://raw.githubusercontent.com/WilliamMorenoVl/Tetramin-J/master/Assets/PiezaJ.jpg
+[1]: http://i.stack.imgur.com/ukC2U.jpg
 ## Pre-Requisitos
 - Git
 - ApacheTomcat
