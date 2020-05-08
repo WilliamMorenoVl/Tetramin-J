@@ -29,7 +29,15 @@ Mediante el uso de las flechas de dirección del teclado (Derecha e Izquierda) p
 Con las flechas (Arriba, Abajo) Podremos dar vuelta a la pieza ya sea en sentido de las manecillas del reloj como en contra de las manecillas.  
 ### Uso JAVA
 ### Rotar
+![Dack][3]
+
+
+[1]: https://raw.githubusercontent.com/WilliamMorenoVl/Tetramin-J/master/Assets/Rotar.png
 ### Mover
+![Deck][4]
+
+
+[1]: https://raw.githubusercontent.com/WilliamMorenoVl/Tetramin-J/master/Assets/Mover.png
 
 ## Ejemplo de Funcionamiento
 
